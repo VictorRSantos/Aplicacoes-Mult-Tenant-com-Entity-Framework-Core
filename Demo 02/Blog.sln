@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog", "Blog.csproj", "{048B5596-CE92-47D0-8145-9F21109E0F2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiRegras", "..\Demo 01\MultiRegras.csproj", "{D361C662-D868-43AC-8ECA-B7CAD05108D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048B5596-CE92-47D0-8145-9F21109E0F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048B5596-CE92-47D0-8145-9F21109E0F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048B5596-CE92-47D0-8145-9F21109E0F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048B5596-CE92-47D0-8145-9F21109E0F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D361C662-D868-43AC-8ECA-B7CAD05108D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D361C662-D868-43AC-8ECA-B7CAD05108D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D361C662-D868-43AC-8ECA-B7CAD05108D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D361C662-D868-43AC-8ECA-B7CAD05108D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53AD088-7430-41CD-98B9-1819230AB382}
+	EndGlobalSection
+EndGlobal
